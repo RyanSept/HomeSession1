@@ -29,7 +29,7 @@ class Vaccination(object):
     def to_vaccinate(self,age):
         pass
     
-    def vaccinate(self,age):
+    def record_vaccinate(self,age):
         if self.to_vaccinate(age):
             self.doses_given+=1
             date = datetime.date.today().isoformat() 
@@ -60,5 +60,7 @@ class BCG(Vaccination):
             return True
         return False
 
+
+    
 
                                 
