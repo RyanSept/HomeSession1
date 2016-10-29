@@ -1,2 +1,2 @@
 # OOP
-Andela OOP problem
+Andela Object Oriented Programming Learning Outcome
