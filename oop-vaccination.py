@@ -1,7 +1,7 @@
 import datetime
 class Vaccination(object):
     '''
-    This is the Vaccination class from which is the parent of all vaccination
+    This is the Vaccination class, the parent of all vaccination
     types
     '''
     max_doses = 0
