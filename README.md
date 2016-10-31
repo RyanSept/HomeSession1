@@ -25,8 +25,11 @@ The program **oop-vaccination.py**  helps keep track of vaccinations done on inf
 ----------
 These examples can give further guidance.
 
-> **`Polio`** class extends **`Vaccination`**
-> For Polio vaccination.
-> **`BCG`** class extends **`Vaccination`**
-> For Tuberculosis vaccination.
+**`Polio`** class extends **`Vaccination`**
+
+For Polio vaccination.
+
+**`BCG`** class extends **`Vaccination`**
+
+For Tuberculosis vaccination.
 
